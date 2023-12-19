@@ -1,7 +1,9 @@
 # Gemini_API_geneartive_text_demo
 PySimpleGUI library to create a basic graphical user interface (GUI) for a demo of Google Generative text, using Goole Gemini API Key
 
-[Python File here](https://github.com/kephalian/Gemini_API_geneartive_text_demo/blob/main/Gemini%20(API%20key%20needed).py")
+[Python File here](https://github.com/kephalian/Gemini_API_geneartive_text_demo/blob/main/Gemini%20(API%20key%20needed).py)
+
+[Get API KEY here](https://makersuite.google.com/app/apikey)
 
 ![Screenshot Image](screenshot.png)
 
