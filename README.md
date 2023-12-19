@@ -1,6 +1,6 @@
 # Gemini_API_geneartive_text_demo
 PySimpleGUI library to create a basic graphical user interface (GUI) for a demo of Google Generative text, using Goole Gemini API Key
-
+***[https://github.com/kephalian/Gemini_API_geneartive_text_demo/blob/main/Gemini%20(API%20key%20needed).py](Python File here)***
 *Description by ChatGPT*
 The provided Python script utilizes the PySimpleGUI library to create a basic graphical user interface (GUI) for a Magic Backpack Story Generator. Here's a breakdown of the code:
 
